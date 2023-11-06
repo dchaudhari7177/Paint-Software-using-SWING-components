@@ -35,6 +35,8 @@ How to use this repository
 * after downloading Extract it.
 * Open vs code or any other compiler and Import project.
 * InptWH.java is the main File there, hence, Run InputWH.java.
+* create a bin folder and all .png files paste there.
 * if there is null pointer exception happening at your site then there might be chances of bin folder should not created there, for that crear \bin folder and insert all images(pencil.png,save.png,etc) there in bin folder.
+  
 
 Note:- Make sure your all images in \bin folder else you can't run your project...
