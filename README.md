@@ -33,6 +33,9 @@ How to use this repository
 
 * Click on download button in top right corner and download whole zip file.
 * after downloading Extract it.
+* create two folders \bin and \src.
+* move all .java files to the \src folder.
+* and move all .png images to \bin folder.
 * Open vs code or any other compiler and Import project.
 * InptWH.java is the main File there, hence, Run InputWH.java.
 * create a bin folder and all .png files paste there.
